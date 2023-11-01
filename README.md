@@ -20,7 +20,7 @@ This repository is organized to facilitate agile development practices and provi
 
 To get started with the Criminal Justice Hub Sprint Board, please follow these steps:
 
-1. **Familiarize Yourself with Our Workflow**: Review our `CONTRIBUTING.md` file to understand how we manage our sprints and contribute to the project.
+1. **Familiarise Yourself with Our Workflow**: Review our `CONTRIBUTING.md` file to understand how we manage our sprints and contribute to the project.
 2. **Set Up Your Environment**: If you're a developer, check out the `SETUP.md` for instructions on setting up your local development environment.
 3. **Dive into the Backlog**: Take a look at the `/backlog` directory to see what items are queued up for future sprints.
 4. **Join the Conversation**: Access our communication channels listed in `COMMUNICATION.md` to start engaging with the team.
@@ -44,7 +44,3 @@ If you have any questions, comments, or suggestions, please feel free to open an
 ---
 
 Thank you for visiting the Criminal Justice Hub Sprint Board. Together, we can make a difference in the justice system through service design and innovation.
-
----
-
-**Note**: This README is a template and should be customized to fit the specifics of your project and team. It assumes the existence of certain files like `CONTRIBUTING.md`, `SETUP.md`, etc., which should be created and populated with appropriate content.
