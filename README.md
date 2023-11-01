@@ -4,7 +4,7 @@ Welcome to the **Criminal Justice Hub Sprint Board** repository! This repository
 
 ## About the Criminal Justice Hub
 
-The Criminal Justice Hub is a collaborative initiative aimed at creating a more efficient, transparent, and fair justice system. We work with various stakeholders, including law enforcement, legal professionals, community organizations, and technologists, to design services that address the complex challenges within the criminal justice sector.
+The Criminal Justice Hub is a collaborative initiative aimed at creating a more efficient, transparent, and fair justice system. We work with various stakeholders, including law enforcement, legal professionals, community organisations, and technologists, to design services that address the complex challenges within the criminal justice sector.
 
 ## Repository Structure
 
