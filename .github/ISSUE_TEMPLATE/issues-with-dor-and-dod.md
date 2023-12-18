@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-### What
+## What
 *Please describe the work to be done*
 
-### Acceptance Criteria
+## Acceptance Criteria
 *Describe the acceptance criteria for this specific issue to meet to be considered finished*
 
-### Readiness
+## Readiness
 
 ***Please check this meets the Definition of Ready before it is added to the backlog***
 - [ ] The story or task has a **concise and understandable description**
